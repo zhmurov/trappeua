@@ -1,0 +1,10 @@
+TITLE     C3H10_ISO
+REMARK    THIS IS A SIMULATION BOX
+CRYST1 1000.000 1000.000 1000.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  C   CH3     1       1.630   3.590   1.360  1.00  0.00            
+ATOM      2  C1   MB     2       3.600   2.030   1.360  1.00  0.00            
+ATOM      3  C    MB     2       2.170   2.240   0.880  1.00  0.00            
+ATOM      4  C   CH3     3       1.270   1.110   1.360  1.00  0.00            
+TER
+ENDMDL

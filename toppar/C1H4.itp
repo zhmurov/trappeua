@@ -1,0 +1,9 @@
+[ moleculetype ]
+; Name            nrexcl
+C1H4               3
+
+[ atoms ]
+;   nr       type  resnr residue  atom   cgnr     charge       mass  typeB    chargeB      massB
+; residue   1 CH3 rtp CH3  q  0.0
+     1      CH3_C      1    CH3      C      1          0     15.035   ; qtot 0
+

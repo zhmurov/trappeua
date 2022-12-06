@@ -1,0 +1,11 @@
+TITLE     C5H12_ISO
+REMARK    THIS IS A SIMULATION BOX
+CRYST1 1000.000 1000.000 1000.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  C   CH3     1       1.368   3.529   1.367  1.00  0.00            
+ATOM      2  C1   MB     2       1.347   1.013   1.307  1.00  0.00            
+ATOM      3  C    MB     2       1.795   2.246   2.105  1.00  0.00            
+ATOM      4  C   CH2     3       3.304   2.192   2.351  1.00  0.00            
+ATOM      5  C   CH3     4       4.146   2.290   1.060  1.00  0.00            
+TER
+ENDMDL

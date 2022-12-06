@@ -1,0 +1,15 @@
+[ moleculetype ]
+; Name            nrexcl
+C2H6               3
+
+[ atoms ]
+;   nr       type  resnr residue  atom   cgnr     charge       mass  typeB    chargeB      massB
+; residue   1 CH3 rtp CH3  q  0.0
+     1      CH3_C      1    CH3      C      1          0     15.035   ; qtot 0
+; residue   2 CH3 rtp CH3  q  0.0
+     2      CH3_C      2    CH3      C      2          0     15.035   ; qtot 0
+
+[ bonds ]
+;  ai    aj funct            c0            c1            c2            c3
+    1     2     1 
+
