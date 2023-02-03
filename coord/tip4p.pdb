@@ -1,0 +1,10 @@
+TITLE     single tip4p molecule
+REMARK    THIS IS A SIMULATION BOX
+CRYST1 1000.000 1000.000 1000.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  OW  SOL     1       1.814   1.468   1.092  1.00  0.00            
+ATOM      2  HW1 SOL     1       2.221   0.891   1.738  1.00  0.00            
+ATOM      3  HW2 SOL     1       0.875   1.391   1.259  1.00  0.00            
+ATOM      4  MW  SOL     1       1.744   1.382   1.199  1.00  0.00            
+TER
+ENDMDL
