@@ -9,3 +9,4 @@
   CH_C      13.01900 ; CH attached to any carbon group
   C_O       12.01100 ; Single carbon attached to an oxygen
   C_C       12.01100 ; Single carbon attached to any carbon group
+  CR        13.01900 ; Aromatic carbon

@@ -6,6 +6,8 @@
 
 ; Additionally, some parameters were corrected on the TRAPPE-UA website. Those
 ; corrected parameters were used here.
+
+; Note that TraPPE-UA uses rigid bonds, hence k0 here is chosen arbitrary
  
 [ bondtypes ]
 ; i    j     func    b0        k0
@@ -20,6 +22,7 @@
   CH   CH    1       0.1540    502416.0
   CH   C     1       0.1540    502416.0
   C    C     1       0.1540    502416.0
+  CR   CR    1       0.1400    502416.0
 ; CHX-OH
   CH3  O     1       0.1430    502416.0
   CH2  O     1       0.1430    502416.0
@@ -63,6 +66,8 @@
   CH   C    CH    1       109.47    519.65389
   CH   C    C     1       109.47    519.65389
   C    C    C     1       109.47    519.65389
+; Aromatic
+  CR   CR   CR    1       120.00    519.65389 ; Force constant is arbitrary since angle should be rigid
 ; CHX-[CHY]-O
   CH3  CH3  O     1       109.47    419.04889
   CH3  CH2  O     1       109.47    419.04889
