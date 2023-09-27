@@ -1,0 +1,12 @@
+TITLE     C6H6
+REMARK    THIS IS A SIMULATION BOX
+CRYST1 1000.000 1000.000 1000.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  C1  BENZ    1       1.000   2.210   1.000  1.00  0.00            
+ATOM      2  C2  BENZ    1       1.700   3.420   1.000  1.00  0.00            
+ATOM      3  C3  BENZ    1       3.100   3.420   1.000  1.00  0.00            
+ATOM      4  C4  BENZ    1       3.800   2.210   1.000  1.00  0.00            
+ATOM      5  C5  BENZ    1       3.100   1.000   1.000  1.00  0.00            
+ATOM      6  C6  BENZ    1       1.700   1.000   1.000  1.00  0.00            
+TER
+ENDMDL
