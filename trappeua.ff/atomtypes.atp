@@ -10,12 +10,3 @@
   C_O       12.01100 ; Single carbon attached to an oxygen
   C_C       12.01100 ; Single carbon attached to any carbon group
   CR        13.01900 ; Aromatic carbon
-  ; 5CB
-  5CB_N        14.00700 ; Nitrogen, connected to carbon
-  5CB_CN       12.01100 ; Carbon between ring and nitrogen
-  5CB_C0       12.01100 ; Aromatic carbon bound to carbon outside the ring
-  5CB_C1       12.01100 ; Aromatic carbon
-  5CB_C2       12.01100 ; Aromatic carbon bound to another aromatic carbon
-  5CB_C3       12.01100 ; Aromatic carbon bound to aliphatic chain
-  5CB_C4       14.02700 ; Aliphatic carbon bound to two hydrogens
-  5CB_C5       15.03500 ; Aliphatic carbon bound to three hydrogens
