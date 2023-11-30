@@ -1,3 +1,14 @@
+; 4-Cyano-4'-pentylbiphenyl (5CB)
+;
+;                                                   C18--C19
+;                                                  /
+;              C6--C7       C12--C13        C16--C17
+;             /      \      /      \        /
+;   N1≡≡C2--C3        C8--C9        C14--C15
+;            \       /      \      /
+;              C4--C5       C10--C11
+;
+
 [ atomtypes ]
 ; name      bond_type    mass       charge   ptype   sigma        epsilon
   5CB_N     5CB_N        14.00700  -0.2200   A       2.9500e-01  4.992e-01;
